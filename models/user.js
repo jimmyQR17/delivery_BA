@@ -5,6 +5,7 @@ const User ={};
 
 User.getAll = () => {
     
+    
     const sql = `
     SELECT
         *
